@@ -16,31 +16,31 @@
 
 >Ronald E. Rosser with President Harry Truman
 >
->![Ronald E. Rosser with President Harry Truman](/src/images/ronald-truman.jpg "Ronald E. Rosser with President Harry Truman")  
+><img alt="Ronald E. Rosser with President Harry Truman" src="./src/images/ronald-truman.jpg" />  
 
 
 >Ronald E. Rosser with President John F. Kennedy
 >
->![Ronald E. Rosser with President John F. Kennedy](/src/images/ronald-jfk.jpg "Ronald E. Rosser with President John F. Kennedy")
+><img alt="Ronald E. Rosser with President John F. Kennedy" src="./src/images/ronald-jfk.jpg" />
 
 
 >Ronald E. Rosser with Medal of Honor
 >
->![Ronald E. Rosser with Medal of Honor](/src/images/ronald-5.png "Ronald E. Rosser with Medal of Honor")
+><img alt="Ronald E. Rosser with Medal of Honor" src="./src/images/ronald-5.png" />
 
 
 >Ronald E. Rosser with President Donald Trump
 >
->![Ronald E. Rosser with President Donald Trump](/src/images/ronald-trump.jpg "Ronald E. Rosser with President Donald Trump")
+><img alt="Ronald E. Rosser with President Donald Trump" src="./src/images/ronald-trump.jpg" />
 
 >Ronald E. Rosser with Sean J. Kurker VLO Founder/CEO/Interviewer
 >
->![Ronald E. Rosser with Sean J. Kurker VLO Founder/CEO/Interviewer](/src/images/ronald-kurker.jpg "Ronald E. Rosser with with Sean J. Kurker")
+><img alt="Ronald E. Rosser with Sean J. Kurker VLO Founder/CEO/Interviewer" src="./src/images/ronald-kurker.jpg" />
 
 
 >Ronald E. Rosser with David Fraley Military Historian-Interviewer
 >
->![Ronald E. Rosser with with David Fraley](/src/images/ronald-fraley.jpg "Ronald E. Rosser with with David Fraley")
+><img alt="Ronald E. Rosser with with David Fraley" src="./src/images/ronald-fraley.jpg" />
 
 ### Listen to Sergeant Ronald E Rosser speak of his Military Career, Presidents he has advised from Truman to Trump,  and each President in between. You can hear Sergeant Rosser describe charging 1000’s of the enemy and surviving many different conflicts.  Sergeant Rosser interviewed by  VoicesLiveOn.com for Veterans.
 
@@ -112,9 +112,7 @@ We can interview individuals, families, and multiple people to honor someone who
 >
 >In 1968, another of Rosser's brothers was killed in action, this time in the Vietnam War. Rosser requested a combat assignment in Vietnam but was rejected and subsequently retired from the Army as a master sergeant.
 
-***
 ## Medal of Honor Citation
-***
 
 Rosser's official Medal of Honor citation reads:
 
