@@ -1,4 +1,4 @@
-<image alt="Ronald E. Rosser" src="/src/images/ronald-name.png" />
+<img alt="Ronald E. Rosser" src="/src/images/ronald-name.png" />
 
 ![Voices Live On | For Veterans Forever](/src/images/vlo-veterans.jpg "Voices Live on")
 
