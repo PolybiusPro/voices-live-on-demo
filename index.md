@@ -1,19 +1,18 @@
 <img alt="Ronald E. Rosser" src="./src/images/ronald-name.png" />
 
-![Voices Live On | For Veterans Forever](/src/images/vlo-veterans.jpg "Voices Live on")
+<img alt="Voices Live On | For Veterans Forever" src="./src/images/vlo-veterans.jpg" />
 
 ## Interviewed by Voices Live On | for Veterans
 
 ### To create his “Library of Life” for America to Listen & Learn from his Stories!
 
+<img alt="Ronald E. Rosser" src="./src/images/ronald-1.png" />
 
-![Ronald E. Rosser](/src/images/ronald-1.png "Ronald E. Rosser")
+<img alt="Ronald E. Rosser" src="./src/images/ronald-3.png" />
 
-![Ronald E. Rosser](/src/images/ronald-3.png "Ronald E. Rosser")
+<img alt="Ronald E. Rosser" src="./src/images/ronald-2.png" />
 
-![Ronald E. Rosser](/src/images/ronald-2.png "Ronald E. Rosser")
-
-![Ronald E. Rosser](/src/images/ronald-4.png "Ronald E. Rosser")
+<img alt="Ronald E. Rosser" src="./src/images/ronald-4.png" />
 
 >Ronald E. Rosser with President Harry Truman
 >
