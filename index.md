@@ -1,10 +1,11 @@
-![Ronald E. Rosser](/src/images/ronald-name.png "Ronald E. Rosser")
+<image alt="Ronald E. Rosser" src="/src/images/ronald-name.png" />
 
 ![Voices Live On | For Veterans Forever](/src/images/vlo-veterans.jpg "Voices Live on")
 
 ## Interviewed by Voices Live On | for Veterans
 
 ### To create his “Library of Life” for America to Listen & Learn from his Stories!
+
 
 ![Ronald E. Rosser](/src/images/ronald-1.png "Ronald E. Rosser")
 
